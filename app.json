@@ -1,8 +1,0 @@
-{
-  "name": "Heroku Events Landing Page",
-  "description": "A simple static landing page for upcoming Heroku events",
-  "website": "www.heroku.com",
-  "logo": "https://s3.amazonaws.com/bucketeer-5e9d2f42-1039-486c-a74b-5eb4b8e724f1/HerokuIcon.png",
-  "keywords": ["heroku", "events"],
-  "repository": "https://github.com/herokumx/heroku-events/new/master",
-}
