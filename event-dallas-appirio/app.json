@@ -1,15 +1,8 @@
 {
-  "name": "nycevent",
-  "scripts": {
-  },
-  "env": {
-  },
-  "formation": {
-  },
-  "addons": [
-
-  ],
-  "buildpacks": [
-
-  ]
+  "name": "Heroku Events Landing Page",
+  "description": "A simple static landing page for upcoming Heroku events",
+  "website": "www.heroku.com",
+  "logo": "https://raw.githubusercontent.com/sosedoff/pgweb/master/static/img/icon.png",
+  "keywords": ["heroku", "events"],
+  "repository": "https://github.com/herokumx/heroku-events/edit/master/event-dallas-appirio",
 }
