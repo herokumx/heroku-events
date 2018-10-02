@@ -6,7 +6,7 @@ Samples include:
 
 ![Screenshot](/screenshots/event-austin-polsource.png)
 ###### Austin, TX (PolSource)
-======
+---
 
 ![Screenshot](/screenshots/event-austin-persistent.png)
 ###### Austin, TX (Persistent)
