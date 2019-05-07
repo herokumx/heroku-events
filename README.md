@@ -46,3 +46,8 @@ Simple static Site Template enabling Event Landing Pages for various Heroku &amp
 ###### San Francisco, CA (Trifin Labs)
 
 ---
+
+![Screenshot](/screenshots/event-sanfrancisco.png)
+###### San Francisco, CA (Product Briefing)
+
+---
